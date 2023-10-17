@@ -1,0 +1,2 @@
+# Implementation_SGDClassifier_with_logloss_and_l2_reg
+Implementation of SGDClassifier with logloss and L2 regularization without using sklearn
